@@ -8,4 +8,12 @@ I've craeted a dashbaord using Tableau to show the current situation of COVID-19
 
 https://covid19.who.int/
 
-The Tableau workbook link: https://public.tableau.com/views/COVID19_Dashboard_16238298016630/COVID_Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+The Tableau Public workbook link: https://public.tableau.com/views/COVID19_Dashboard_16238298016630/COVID_Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+
+# Functionality: 
+
+1. The global map shows the new cases and new deaths for each country.
+2. All visuals can be filtered for different country by selcting a particular country in the map.
+3. All bar graphs can be filtered for daily change and cumulative change with time. 
+4. First two bar graphs shows confirmed cases and deaths for countries over time.
+5. The last two bar graph shows the confirmed cases and deaths for WHO regions over time.
